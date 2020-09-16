@@ -1,0 +1,54 @@
+body {
+	color: #EEE;
+	background:#333333;
+}
+a{
+	color: #EEE;
+}
+#page-wrapper{
+	background:#333333;
+	border:1px solid #333;
+}
+
+#footer a.logo{
+	background:url("logo_dark-2.png") no-repeat right top;
+}
+
+table.quotes td {
+    border-bottom: 1px solid #555;
+}
+
+.newvalue {
+	background: #3F3F3F !important;
+}
+.newvalue_up {
+	background: #335533 !important;
+}
+.newvalue_down {
+	background: #523333 !important;
+}
+
+.graph-c{
+	background:#444;
+	background-image: linear-gradient(bottom, #555 8%, #333 70%);
+	background-image: -o-linear-gradient(bottom, #555 8%, #333 70%);
+	background-image: -moz-linear-gradient(bottom, #555 8%, #333 70%);
+	background-image: -webkit-linear-gradient(bottom, #555 8%, #333 70%);
+	background-image: -ms-linear-gradient(bottom, #555 8%, #333 70%);
+}
+
+.chart-color-border{
+	color:#666;
+}
+.chart-color-quote{
+	color:#FFF;
+}
+.chart-color-volume{
+	color:#999;
+}
+.chart-color-prevclose{
+	color:#FFA3A3;
+}
+#footer a.gplay{
+	border-right:1px solid #555;
+}
